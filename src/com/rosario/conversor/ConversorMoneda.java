@@ -63,7 +63,7 @@ public class ConversorMoneda {
                     break;
                 case 6:
                     conversion = "" + pesos + " Pesos Mexicanos es igual a " + decimalFormato.format(convertirP_Colombiano(pesos)) + " Peso Colombiano";
-                    JOptionPane.showMessageDialog(null,conversion, " Conversion a bolivar ",JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(null,conversion, " Conversion a peso colombiano ",JOptionPane.INFORMATION_MESSAGE);
                     break;
                 case 7:
                     JOptionPane.showMessageDialog(null,"Gracias por usar la aplicacion ", " Salida ",JOptionPane.INFORMATION_MESSAGE);
