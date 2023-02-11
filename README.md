@@ -12,8 +12,8 @@ double pesos
 int opcion menu convertir
 cadena conversion, menu
 --Proceso
-
 Primero se realiza para el numero de opciones a repetir
+utilizando un  while para un numero determindo de veces
 y despues se realiza un menu para las acciones a realizar
 en el caso uno  se pide la cantidad de pesos para dichas conversiones
 si la cantidad es amyor o igual que cero  se realizara las operaciones 
