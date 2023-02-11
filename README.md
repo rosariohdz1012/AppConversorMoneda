@@ -16,6 +16,8 @@ int opcion menu convertir
 
 cadena conversion, menu
 
+decimal formato clase
+
   --Proceso
 
 Primero se realiza para el numero de opciones a repetir
