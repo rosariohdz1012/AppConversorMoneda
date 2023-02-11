@@ -6,7 +6,9 @@ Se requiere un programa en java para convertir una cantidad de dinero en
 otros tipos de monedas(al menos a cinco tipos de monedas distintas).
 
 ## Etapa 02. Definicion de la solucion 
+
 --Entrada
+
 double pesos
 int opcion menu convertir
 cadena conversion, menu
@@ -36,5 +38,6 @@ En el caso seis se piden los pesos para la conversion de pesos  colombianos  uti
 la funcion de convertir peso colombiano
 
 --Salida
+
 
 ## Etapa 03. Diseño de la solucion 
