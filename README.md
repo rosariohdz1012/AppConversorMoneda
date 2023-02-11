@@ -63,5 +63,5 @@ _________________________________________
 ## Etapa 03. Diseño de la solucion 
 
 
-![](https://github.com/rosariohdz1012/AppConversorMoneda/blob/master/ConversorMoneda.png)
+![](https://https://github.com/rosariohdz1012/AppConversorMoneda/blob/master/ConversorMoneda.png)
 
